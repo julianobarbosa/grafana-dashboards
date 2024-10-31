@@ -21,7 +21,7 @@
     "chance": "^1.1.8",
     "express": "^4.17.1",
     "express-prom-bundle": "^6.4.1",
-    "node-jq": "^2.0.0",
+    "node-jq": "^2.3.5",
     "prom-client": "^14.0.1"
   }
 }
